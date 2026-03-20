@@ -1,2 +1,7 @@
-# -GitHub
-第一次尝试
+#incdlue<iostream>
+int main()
+{
+  using namespace std;
+  cout<<"Hello World"<<endl;
+  return 0;
+}
