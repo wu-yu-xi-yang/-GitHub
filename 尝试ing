@@ -2,6 +2,6 @@
 int main()
 {
   using namespace std;
-  cout<<"I still love you"<<endl;
+  cout<<"You are stupid!"<<endl;
   return 0;
 }
